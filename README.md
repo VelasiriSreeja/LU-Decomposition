@@ -48,7 +48,6 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]()
 ![output](Screenshot%20from%202023-01-25%2020-23-21.png)
 ![output](Screenshot%20from%202023-01-25%2020-23-32.png)
 
